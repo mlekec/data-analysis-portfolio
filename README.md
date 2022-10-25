@@ -232,7 +232,8 @@ ORDER BY
     `olist_db.olist_customesr_dataset` customers USING (customer_id)
   GROUP BY customer_state, customer_city
 ```
-  
+</p>
+</details>
 
 ### AdwentureWorks Gender diversity analysis
 **Description:** The report is concentrating around gender diversity analysis. Diversity metrics are the measurable numerical values that help HR to see workforce demographics and assess the efforts of the company towards inclusive practices. Like other metrics for HR, diversity metrics allow getting insight into a company's workforce and the overall health of the company. And diversity metrics can help to improve Diversity and inclusion practices. The report analyses the data from [AdwentureWorks](https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1). In the database there is information about sales, purchasing, personel, production, orders, human recources. 
