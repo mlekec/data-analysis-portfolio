@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	+ [eCommerce clothing site customer analysis](#the-look-customer-analysis)
 	+ [Olist marketplace analysis](#olist-marketplace-analysis)
 	+ [AdwentureWorks Gender diversity analysis](#adwentureworks-gender-diversity-analysis)
-	+ [AdventureWorks Mid-year overview](#adwentureworks-mid-year-overview)
+	+ [AdventureWorks Mid year overview](#adventureworks-mid-year-overview)
 - [Certificates and courses](#certificates-and-courses)
 - [Contacts](#contacts)
 
