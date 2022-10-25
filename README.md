@@ -311,9 +311,9 @@ ORDER BY
 
   -[Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/0fEq98a4QYmVfYdeksO1Zg) (Jul 2022) (Google Analytics)
 
-  -[Advanced Google Analytics](https://www.linkedin.com/in/monika-lekeckaite/details/certifications/) (Apr 2022) (LinkedIn)
+  -[Advanced Google Analytics](https://www.linkedin.com/in/monika-lekeckaite/) (Apr 2022) (LinkedIn)
 
-  -[Fundimentals of Digital Marketing](https://www.linkedin.com/in/monika-lekeckaite/details/certifications/) (Sep 2019) (The Open University)
+  -[Fundimentals of Digital Marketing](https://www.linkedin.com/in/monika-lekeckaite/) (Sep 2019) (The Open University)
 
   -[Elements of AI](https://certificates.mooc.fi/validate/p1cxbbu3ry) (Mar 2019) (University of Helsinki)
   
