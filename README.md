@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Dashboard:** [Data studio](https://datastudio.google.com/reporting/e23254eb-cf37-4150-ad61-5dac3078b029)
 
-**Technology:** SQL, DataStudio
+**Technology:** SQL (Bigquery), DataStudio
 
 <details><summary>SQL code (click to expand)</summary>
 <p>
@@ -196,7 +196,7 @@ ORDER BY
   
 **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1mJWphKeIyq-TpfDpjzvgzIFC58z_NHwoD_cDzjdjMPY/edit?usp=sharing)
 
-**Technology:** SQL, DataStudio
+**Technology:** SQL (Bigquery), DataStudio
   
 <details><summary>SQL code (click to expand)</summary>
 <p>
@@ -242,7 +242,7 @@ ORDER BY
   
 **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1RVRkHpKqUcr-HiB8u_z2BtyBBtY1XO25fOLANZPJa2k/edit?usp=sharing)
 
-**Technology:** SQL, DataStudio
+**Technology:** SQL (Bigquery), DataStudio
 
 <details><summary>SQL code (click to expand)</summary>
 <p>
@@ -276,7 +276,7 @@ ORDER BY
   
 **Presentation:** [Google Slides](https://docs.google.com/presentation/d/19wFm-KgB6wwCpUTA08eVGewUx1R5I0ErMtzqi3fKFnw/edit?usp=sharing)
 
-**Technology:** SQL, DataStudio
+**Technology:** SQL (Bigquery), DataStudio
   
 <details><summary>SQL code (click to expand)/age</summary>
 <p>
