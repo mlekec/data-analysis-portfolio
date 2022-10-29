@@ -308,6 +308,8 @@ ORDER BY
 ## Certificates and courses
 
   -[Data Analytics](https://intra.turingcollege.com/s/mlekec-c35a7) (Oct 2022) (Turing College)
+  
+  -[Python](https://www.kaggle.com/learn/certification/monikalekeckait/python) (Oct 2022) (Kaggle)
 
   -[Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/0fEq98a4QYmVfYdeksO1Zg) (Jul 2022) (Google Analytics)
 
