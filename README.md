@@ -307,6 +307,8 @@ ORDER BY
 
 ## Certificates and courses
 
+  -[Data Visualization](https://www.kaggle.com/learn/certification/monikalekeckait/data-visualization) (Nov 2022) (Kaggle)
+  
   -[Pandas](https://www.kaggle.com/learn/certification/monikalekeckait/pandas) (Nov 2022) (Kaggle)
   
   -[Data Analytics](https://intra.turingcollege.com/s/mlekec-c35a7) (Oct 2022) (Turing College)
