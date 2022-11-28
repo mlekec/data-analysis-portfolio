@@ -307,6 +307,8 @@ ORDER BY
 
 ## Certificates and courses
 
+  -[Advanced SQL](https://www.kaggle.com/learn/certification/monikalekeckait/advanced-sql) (Nov 2022) (Kaggle)
+  
   -[Data Visualization](https://www.kaggle.com/learn/certification/monikalekeckait/data-visualization) (Nov 2022) (Kaggle)
   
   -[Pandas](https://www.kaggle.com/learn/certification/monikalekeckait/pandas) (Nov 2022) (Kaggle)
