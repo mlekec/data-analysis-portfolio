@@ -307,6 +307,8 @@ ORDER BY
 
 ## Certificates and courses
 
+  -[Microsoft Power BI Data Analyst](https://www.udemy.com/certificate/UC-c5f81b39-5705-45b5-9124-80b8c36950e5/) (Jan 2023) (Udemy)
+  
   -[Advanced SQL](https://www.kaggle.com/learn/certification/monikalekeckait/advanced-sql) (Nov 2022) (Kaggle)
   
   -[Data Visualization](https://www.kaggle.com/learn/certification/monikalekeckait/data-visualization) (Nov 2022) (Kaggle)
